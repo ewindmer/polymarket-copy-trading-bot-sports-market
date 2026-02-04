@@ -8,9 +8,7 @@ A **polymarket copy trading bot** that monitors a target wallet and mirrors its 
 
 - https://polygonscan.com/tx/0x8e1f82c30744f2df068f22d145371164f2ea237beaa55dde6ca4f022afe397cf
 
-<img width="463" height="194" alt="image" src="https://github.com/user-attachments/assets/97c5b62c-9a2a-47f3-b899-32ea45f6e34b" />
-<img width="458" height="193" alt="image" src="https://github.com/user-attachments/assets/d9825078-bbcc-41f6-b51c-982eeb8b8595" />
-<img width="466" height="193" alt="image" src="https://github.com/user-attachments/assets/906e4b31-5284-4518-88a2-07fa7b305713" />
+<img width="489" height="231" alt="image" src="https://github.com/user-attachments/assets/fb4f32b6-d2f4-458f-8246-f97997d8f13d" />
 
 ---
 ## Support Me
