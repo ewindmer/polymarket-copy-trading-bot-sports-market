@@ -14,7 +14,7 @@
 https://polymarket.com/@kafwhsd?tab=positions
 
 This is example account if you want your own polymarket arbitrage bot or polymarket copy trading bot
-Feel free to reach out to me [@ewindmer](https://t.me/ewindmer)
+Feel free to reach out to me at telegram: [@ewindmer](https://t.me/ewindmer)
 ---
 
 ### High-Level Flow
