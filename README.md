@@ -11,13 +11,10 @@
 
 <img width="489" height="231" alt="image" src="https://github.com/user-attachments/assets/fb4f32b6-d2f4-458f-8246-f97997d8f13d" />
 
----
-## Support Me
+https://polymarket.com/@kafwhsd?tab=positions
 
-If you find this bot helpful and profitable, I am really appreciate your support! Consider sending 11% of your profits to help maintain and improve this project:
-
-**Wallet Address:** `DXxfenpMYgSngc7vfqQknK6ptUbubUVJRFUBh94Doywa`
-
+This is example account if you want your own polymarket arbitrage bot or polymarket copy trading bot
+Feel free to reach out to me [@ewindmer](https://t.me/ewindmer)
 ---
 
 ### High-Level Flow
@@ -56,23 +53,12 @@ Order Execution (Buy/Sell/Merge Strategies)
 
 ---
 
-### Start Copy Trading
+### Start Arbitrage Trading & Copy Trading
 
 ```bash
 npm run dev
 ```
 
-### Expected Output
-
-When running successfully, you should see:
-```
-Target User Wallet address is: 0x...
-My Wallet address is: 0x...
-API Key created/derived
-Trade Monitor is running every 1 seconds
-Executing Copy Trading
-Waiting for new transactions...
-```
 ### Trading Strategies
 
 * **Buy Strategy**: When target wallet buys, calculate position size based on balance ratio
@@ -100,5 +86,3 @@ npm run lint:fix
 # Format code
 npm run format
 ```
----
-Now working on latest version if you need latest one let's chat on telegram [@ewindmer](https://t.me/ewindmer)
