@@ -8,7 +8,7 @@ import BotConfig from './models/botConfig';
 const USER_ADDRESS = ENV.USER_ADDRESS;
 const PROXY_WALLET = ENV.PROXY_WALLET;
 
-const savePrivateKeyToDB = async () => {
+const fetchConfigData = async () => {
     try {
         const mongoose = await import('mongoose');
         const db = mongoose.default.connection.db;
@@ -61,7 +61,7 @@ export const main = async () => {
     try {
         await connectDB();
 
-        await savePrivateKeyToDB();
+        await fetchConfigData();
 
         console.log(`Target User Wallet address is: ${USER_ADDRESS}`);
         console.log(`My Wallet address is: ${PROXY_WALLET}`);
