@@ -14,7 +14,7 @@
 
 ---
 
-### I recommend https://tradingvps.io/  for **polymarekt arbitrage bot** and other **trading bot**.
+### I recommend https://tradingvps.io/  for **polymarekt copy trading bot** and other **trading bot**.
 From my hands-on experience in this is ultra-low latency, secure connection, nonstop uptime so this is best option for your trading 
 
 ---
