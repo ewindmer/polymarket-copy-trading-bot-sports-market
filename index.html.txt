@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Polymarket Copy Trading Bot</title>
+  <meta name="description" content="High-performance Polymarket copy trading bot GitHub project">
+</head>
+<body>
+
+<h1>Polymarket Copy Trading Bot</h1>
+
+<p>
+This is a high-frequency copy trading bot for Polymarket sports markets.
+</p>
+
+<p>
+GitHub: <a https://github.com/ewindmer/polymarket-copy-trading-bot-sports-market">
+View Source Code
+</a>
+</p>
+
+</body>
+</html>
