@@ -10,12 +10,6 @@
 
 <img width="489" height="231" alt="image" src="https://github.com/user-attachments/assets/fb4f32b6-d2f4-458f-8246-f97997d8f13d" />
 
-- Order Fill
-<img width="392" height="347" alt="image" src="https://github.com/user-attachments/assets/f9278587-b7bd-4e01-acc9-93645a9de887" />
-
-- History
-<img width="458" height="466" alt="image" src="https://github.com/user-attachments/assets/1ed89230-b379-44ec-be5f-44a6c80600f2" />
-
 https://polymarket.com/@kafwhsd?tab=positions
 
 This is example account if you want your own polymarket arbitrage bot or polymarket copy trading bot
