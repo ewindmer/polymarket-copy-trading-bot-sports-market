@@ -4,6 +4,7 @@
 
 Professional Polymarket Bot for Automated Arbitrage Trading for suitable income
 
+## contact me on [@lemnlabs](https://t.me/lemnlabs) for more info
 ---
 
 Polymarket Arbitrage Bot - The ultimate automated trading solution for Polymarket arbitrage opportunities. This Polymarket trading bot automatically scans markets, detects arbitrage opportunities, and executes profitable trades when Yes/No ticket prices sum to less than $1.00
@@ -23,8 +24,6 @@ It lasts a week and started losing. So now I am working on performance improveme
 not perfect now but it's stable with decent result.
 
 <img width="463" height="194" alt="image" src="https://github.com/user-attachments/assets/97c5b62c-9a2a-47f3-b899-32ea45f6e34b" />
-
-## Please contact me on [@lemnlabs](https://t.me/lemnlabs) for more discussion, purchase
 
 ---
 
